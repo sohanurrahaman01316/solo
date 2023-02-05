@@ -1,0 +1,29 @@
+header{
+    height: 200px;
+    background-image: url(./image/2.jpg);
+    background-color: bisque;
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-blend-mode:soft-light;
+}
+
+h2{
+    text-decoration: overline wavy green;
+}
+.blog{
+    color: black;
+    background-color: peru;
+    box-shadow: 10px 10px gray;
+    margin-bottom: 100px;
+}
+ul li {
+    color: red;
+    display: inline;
+}
+.inline{
+    border: 1px solid red;
+    display: block;
+    width: 50px;
+    height: 60px;
+}
+
